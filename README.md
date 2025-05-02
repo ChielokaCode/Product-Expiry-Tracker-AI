@@ -35,8 +35,8 @@ A key feature is the expiration products page, which lists products nearing expi
 Provide step-by-step instructions on how to install the project. For example:
 
 ```bash
-git clone https://github.com/ChielokaCode/Dvilla-Product-Expiry-Tracker-GenAI.git
-cd Dvilla-Product-Expiry-Tracker-GenAI
+git clone https://github.com/ChielokaCode/Product-Expiry-Tracker-AI.git
+cd Product-Expiry-Tracker-AI
 npm install
 npm run start
 ```
