@@ -1,11 +1,8 @@
-# Dvilla-Product-Expiry-Tracker-GenAI
-
-![Product Expiry Tracker AI Banner](https://github.com/user-attachments/assets/3809fa7d-fbc5-4438-b647-17e1842ec3df)
+# Product-Expiry-Tracker-AI
 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Video Demo](#video-demo)
 - [App Screenshots](#app-screenshots)
 - [AI Integration](#ai-integration)
 - [Installation](#installation)
@@ -18,9 +15,6 @@ Product Expiry Tracker AI is an application built on React that helps users moni
 The project integrates AI to give summaries of product details in the inventory, together with actionable steps to prevent expiry of the product. The AI can also scan product details and add products to the inventory automatically without needing to fill the form.
 
 A key feature is the expiration products page, which lists products nearing expiration within two months or more, helping customers track items close to expiry. This page uses Kendo React grid components with pagination and filtering options. Users can print and export product lists as PDFs, selecting specific columns via checkboxes.
-
-## Video DEMO
-[![Product Expiry Tracker AI](https://img.youtube.com/vi/NYMsXZHOEPI/hqdefault.jpg)](https://youtu.be/NYMsXZHOEPI)
 
 ## App Screenshots
 
@@ -48,4 +42,4 @@ npm run start
 ```
 
 ## Licence
-[MIT Licence](https://github.com/ChielokaCode/Dvilla-Product-Expiry-Tracker-GenAI/blob/main/LICENSE) is added to Repo
+[MIT Licence](https://github.com/ChielokaCode/Product-Expiry-Tracker-AI/blob/main/LICENSE) is added to Repo
